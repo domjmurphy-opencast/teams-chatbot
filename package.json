@@ -1,0 +1,10 @@
+{
+    "name": "teams-chatbot-function",
+    "version": "1.0.0",
+    "main": "HttpTrigger/index.js",
+    "dependencies": {
+      "axios": "^0.27.2",
+      "openai": "^3.1.0"
+    }
+  }
+  
